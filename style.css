@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(210, 84%, 93%);
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 14px;
+    background: white;
+    width: 290px;  
+    padding: 14px;
+}
+
+.container img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.description{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.description h2{
+    text-indent: 5px;
+}
+
+.description p{
+    text-indent: 5px;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }

@@ -1,12 +1,12 @@
 body{
-    background-color: hsl(210, 84%, 93%);
-    font-family: 'Red Hat Display', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
 }
 
 .container{
     margin: 50px auto 50px auto;
     border-radius: 14px;
-    background: white;
+    background: hsl(0, 0%, 100%);
     width: 290px;  
     padding: 14px;
 }
@@ -22,12 +22,17 @@ body{
     margin-bottom: 40px;
 }
 
-.description h2{
+.description h3{
     text-indent: 5px;
+    font-weight: 700px;
 }
 
 .description p{
     text-indent: 5px;
+    font-size: 15px;
+    text-align-last: center;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }

@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
  ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-Live Site URL: [Live site](https://greatgrant.github.io/qr-code-component-main/)
+Solution URL: [Click here to view solution ](https://www.frontendmentor.io/solutions/a-simple-landing-page-built-with-html-and-css-ryAQYWPEc)
+Live Site URL: [Click here to view live site](https://greatgrant.github.io/qr-code-component-main/)
 
 ## My process
 I started by building the structure of the webpage, then adding various CSS styles to different sections.
